@@ -29,3 +29,9 @@
     </div>
   </section>
 </template>
+
+<script>
+export default {
+  name: "UserTestimonials", // Alterado para nome com múltiplas palavras
+};
+</script>
